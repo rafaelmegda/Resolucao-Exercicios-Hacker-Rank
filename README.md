@@ -1,3 +1,3 @@
-** Solution Hacker Rank Exercise
+# Solution Hackerrank Exercise
 
-This repositori have my solutions for Hacker Rank Exercise
+This repository has my solutions for Hacker Rank Exercise
