@@ -1,4 +1,4 @@
-# Soluções de Exercicios do HackerRank
+# Soluções de Exercicios do HackerRank!
 
 Este repositório esta destinado a receber as soluções que vou aplicando na plataforma HackerRank.
 
