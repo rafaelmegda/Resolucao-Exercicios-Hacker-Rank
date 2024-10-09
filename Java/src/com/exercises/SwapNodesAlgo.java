@@ -1,4 +1,4 @@
-package com.exercises;
+package Java.src.com.exercises;
 import java.io.*;
 import java.math.*;
 import java.security.*;

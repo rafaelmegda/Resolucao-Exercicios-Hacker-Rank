@@ -1,4 +1,4 @@
-package com.exercises;
+package Java.src.com.exercises;
 import java.util.LinkedList;
 import java.util.Queue;
 import java.util.Scanner;
