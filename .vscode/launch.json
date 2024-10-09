@@ -1,0 +1,63 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Solution",
+            "request": "launch",
+            "mainClass": "Java.src.com.exercises.Solution",
+            "projectName": "Resolucao-Exercicios-Hacker-Rank_cdf8dc54"
+        },
+        {
+            "type": "java",
+            "name": "NewYearChaos",
+            "request": "launch",
+            "mainClass": "Java.src.com.exercises.NewYearChaos",
+            "projectName": "Resolucao-Exercicios-Hacker-Rank_cdf8dc54"
+        },
+        {
+            "type": "java",
+            "name": "FizzBuzz",
+            "request": "launch",
+            "mainClass": "Java.src.com.exercises.FizzBuzz",
+            "projectName": "Resolucao-Exercicios-Hacker-Rank_cdf8dc54"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "DoisDArrayDS",
+            "request": "launch",
+            "mainClass": "Java.src.com.exercises.DoisDArrayDS",
+            "projectName": "Resolucao-Exercicios-Hacker-Rank_cdf8dc54"
+        },
+        {
+            "type": "java",
+            "name": "HeightOfABinaryTree",
+            "request": "launch",
+            "mainClass": "Java.src.com.exercises.HeightOfABinaryTree",
+            "projectName": "Resolucao-Exercicios-Hacker-Rank_cdf8dc54"
+        },
+        {
+            "type": "java",
+            "name": "LevelOrderTraversalBinaryTree",
+            "request": "launch",
+            "mainClass": "Java.src.com.exercises.LevelOrderTraversalBinaryTree",
+            "projectName": "Resolucao-Exercicios-Hacker-Rank_cdf8dc54"
+        },
+        {
+            "type": "java",
+            "name": "SwapNodesAlgo",
+            "request": "launch",
+            "mainClass": "Java.src.com.exercises.SwapNodesAlgo",
+            "projectName": "Resolucao-Exercicios-Hacker-Rank_cdf8dc54"
+        }
+    ]
+}
