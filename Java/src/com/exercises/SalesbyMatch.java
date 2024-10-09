@@ -46,7 +46,7 @@ class Result {
 
 }
 
-public class Solution {
+public class SalesbyMatch {
     public static void main(String[] args) throws IOException {
         String filePath = "Java/src/com/exercises/inputFile.txt";
         
